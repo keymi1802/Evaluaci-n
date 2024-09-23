@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66e9f1ea8b131358e3797791"
+  },
+  "titulo": "Harry Potter y la piedra filosofal",
+  "autor": "J.K. Rowling",
+  "año_publicacion": 1998,
+  "generos": [
+    "Fantasía",
+    "Aventura"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9f1ea8b131358e3797793"
+  },
+  "titulo": "Orgullo y prejuicio",
+  "autor": "Jane Austen",
+  "año_publicacion": 1813,
+  "generos": [
+    "Novela romántica",
+    "Literatura clásica"
+  ]
+}]

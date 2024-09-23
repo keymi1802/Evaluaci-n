@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66e9e6bcddb51caa7394e867"
+  },
+  "nombre": "Maria Lopez",
+  "edad": 21,
+  "carrera": "Ciencias de la Computación",
+  "materias": [
+    "Inteligencia Artificial",
+    "Programación Avanzada"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9e73fddb51caa7394e869"
+  },
+  "nombre": "Diego Gutierrez",
+  "edad": 21,
+  "carrera": "Ciencias de Datos",
+  "materias": [
+    "Bases de datos avanzadas",
+    "Aprendizaje automático supervisado"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9e73fddb51caa7394e86a"
+  },
+  "nombre": "Samuel Perez",
+  "edad": 20,
+  "carrera": "ciencias de Datos",
+  "materias": [
+    "Bases de datos avanzadas",
+    "Aprendizaje automático supervisado"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9e7bfddb51caa7394e86c"
+  },
+  "nombre": "Andres Mondragon",
+  "edad": 20,
+  "carrera": "Ciencias de Datos",
+  "materias": [
+    "Mujeres en la ciencia",
+    "Bases de datos avanzadas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e9e832ddb51caa7394e86d"
+  },
+  "nombre": "Enrique Haro",
+  "edad": 22,
+  "carrera": "Ciencias de datos",
+  "materias": [
+    "Adquisición y tratamiento de la información",
+    "Introducción a los procesos estocásticos y simulación"
+  ]
+}]
